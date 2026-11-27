@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs><rect width="760" height="360" fill="#ffffff"/>
+<text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">LED Program Box: reading and connecting</text>
+<rect x="60" y="60" width="300" height="200" rx="12" fill="#2b2b2b"/>
+<rect x="90" y="85" width="100" height="60" rx="4" fill="#111"/>
+<text x="140" y="128" text-anchor="middle" font-size="40" fill="#e74c3c" font-weight="bold">7</text>
+<rect x="230" y="85" width="100" height="60" rx="4" fill="#111"/>
+<text x="280" y="128" text-anchor="middle" font-size="40" fill="#e74c3c" font-weight="bold">6</text>
+<text x="140" y="162" text-anchor="middle" font-size="12" fill="#ccc">ITEM no.</text>
+<text x="280" y="162" text-anchor="middle" font-size="12" fill="#ccc">OPTION no.</text>
+<rect x="80" y="180" width="60" height="28" rx="4" fill="#888"/><text x="110" y="199.0" text-anchor="middle" font-size="12" fill="#fff">ITEM</text>
+<rect x="150" y="180" width="60" height="28" rx="4" fill="#888"/><text x="180" y="199.0" text-anchor="middle" font-size="12" fill="#fff">VALUE</text>
+<rect x="220" y="180" width="50" height="28" rx="4" fill="#2e8b57"/><text x="245" y="199.0" text-anchor="middle" font-size="12" fill="#fff">OK</text>
+<rect x="280" y="180" width="60" height="28" rx="4" fill="#c0392b"/><text x="310" y="199.0" text-anchor="middle" font-size="12" fill="#fff">RESET</text>
+<text x="210" y="240" text-anchor="middle" font-size="13" fill="#ddd">LED Program Box</text>
+<rect x="330" y="65" width="24" height="30" rx="3" fill="#555"/>
+<text x="342" y="58" text-anchor="middle" font-size="12" fill="#222">– +</text>
+<path d="M354,80 C430,80 440,160 520,160" stroke="#c0392b" stroke-width="4" fill="none"/>
+<path d="M354,86 C430,86 440,166 520,166" stroke="#222" stroke-width="4" fill="none"/>
+<text x="445" y="105" text-anchor="middle" font-size="12" fill="#444">JR–JR cable</text>
+<rect x="520" y="130" width="180" height="70" rx="8" fill="#555"/><text x="610" y="162.5" text-anchor="middle" font-size="12" fill="#fff">ESC programming port</text><text x="610" y="177.5" text-anchor="middle" font-size="12" fill="#fff">(Fusion: on the switch)</text>
+<text x="380" y="300" text-anchor="middle" font-size="13" fill="#444">1. ESC off, battery disconnected → 2. connect cable → 3. connect battery, switch on</text>
+<text x="380" y="320" text-anchor="middle" font-size="13" fill="#444">4. ITEM selects the setting, VALUE the option → 5. OK saves (red “– –” clears when done)</text>
+<text x="380" y="340" text-anchor="middle" font-size="13" fill="#1a5fb4">Example shown: item 7 (drag brake) set to option 6 (Level 5 on the Fusion Pro)</text>
+</svg>

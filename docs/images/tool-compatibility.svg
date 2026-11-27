@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs><rect width="760" height="360" fill="#ffffff"/>
+<text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Which programming tool works with which system</text>
+<text x="265" y="80" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">LED box</text>
+<text x="395" y="80" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">LCD box Pro/G2</text>
+<text x="525" y="80" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">HW Link app</text>
+<text x="655" y="80" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">SET button</text>
+<text x="188" y="121" text-anchor="end" font-size="14" fill="#222">Fusion Pro</text>
+<rect x="205" y="100" width="120" height="32" rx="6" fill="#2e8b57"/><text x="265" y="121.0" text-anchor="middle" font-size="13" fill="#fff">yes</text>
+<rect x="335" y="100" width="120" height="32" rx="6" fill="#e0b84a"/><text x="395" y="121.0" text-anchor="middle" font-size="13" fill="#222">?</text>
+<rect x="465" y="100" width="120" height="32" rx="6" fill="#c8c8c8"/><text x="525" y="121.0" text-anchor="middle" font-size="13" fill="#222">no</text>
+<rect x="595" y="100" width="120" height="32" rx="6" fill="#c8c8c8"/><text x="655" y="121.0" text-anchor="middle" font-size="13" fill="#222">no</text>
+<text x="188" y="161" text-anchor="end" font-size="14" fill="#222">Fusion Pro Elite</text>
+<rect x="205" y="140" width="120" height="32" rx="6" fill="#2e8b57"/><text x="265" y="161.0" text-anchor="middle" font-size="13" fill="#fff">yes</text>
+<rect x="335" y="140" width="120" height="32" rx="6" fill="#2e8b57"/><text x="395" y="161.0" text-anchor="middle" font-size="13" fill="#fff">yes</text>
+<rect x="465" y="140" width="120" height="32" rx="6" fill="#7fb38f"/><text x="525" y="161.0" text-anchor="middle" font-size="13" fill="#fff">via LCD Pro</text>
+<rect x="595" y="140" width="120" height="32" rx="6" fill="#c8c8c8"/><text x="655" y="161.0" text-anchor="middle" font-size="13" fill="#222">no</text>
+<text x="188" y="201" text-anchor="end" font-size="14" fill="#222">XeRun AXE R2</text>
+<rect x="205" y="180" width="120" height="32" rx="6" fill="#c8c8c8"/><text x="265" y="201.0" text-anchor="middle" font-size="13" fill="#222">no</text>
+<rect x="335" y="180" width="120" height="32" rx="6" fill="#c8c8c8"/><text x="395" y="201.0" text-anchor="middle" font-size="13" fill="#222">no</text>
+<rect x="465" y="180" width="120" height="32" rx="6" fill="#1a5fb4"/><text x="525" y="201.0" text-anchor="middle" font-size="13" fill="#fff">only</text>
+<rect x="595" y="180" width="120" height="32" rx="6" fill="#e0b84a"/><text x="655" y="201.0" text-anchor="middle" font-size="13" fill="#222">cal/reset</text>
+<text x="188" y="241" text-anchor="end" font-size="14" fill="#222">WP 1080 G1</text>
+<rect x="205" y="220" width="120" height="32" rx="6" fill="#2e8b57"/><text x="265" y="241.0" text-anchor="middle" font-size="13" fill="#fff">yes</text>
+<rect x="335" y="220" width="120" height="32" rx="6" fill="#e0b84a"/><text x="395" y="241.0" text-anchor="middle" font-size="13" fill="#222">?</text>
+<rect x="465" y="220" width="120" height="32" rx="6" fill="#c8c8c8"/><text x="525" y="241.0" text-anchor="middle" font-size="13" fill="#222">no</text>
+<rect x="595" y="220" width="120" height="32" rx="6" fill="#2e8b57"/><text x="655" y="241.0" text-anchor="middle" font-size="13" fill="#fff">yes</text>
+<text x="188" y="281" text-anchor="end" font-size="14" fill="#222">WP 1080 G2</text>
+<rect x="205" y="260" width="120" height="32" rx="6" fill="#2e8b57"/><text x="265" y="281.0" text-anchor="middle" font-size="13" fill="#fff">yes</text>
+<rect x="335" y="260" width="120" height="32" rx="6" fill="#e0b84a"/><text x="395" y="281.0" text-anchor="middle" font-size="13" fill="#222">?</text>
+<rect x="465" y="260" width="120" height="32" rx="6" fill="#c8c8c8"/><text x="525" y="281.0" text-anchor="middle" font-size="13" fill="#222">no</text>
+<rect x="595" y="260" width="120" height="32" rx="6" fill="#2e8b57"/><text x="655" y="281.0" text-anchor="middle" font-size="13" fill="#fff">yes</text>
+<text x="380" y="320" text-anchor="middle" font-size="12" fill="#555">? = not listed in the ESC's manual (some users report it works) · cal/reset = calibration, reset and pairing only</text>
+<text x="380" y="340" text-anchor="middle" font-size="12" fill="#555">AXE R2: settings can only be changed with the HW Link V2 app over the ESC's built-in Bluetooth</text>
+</svg>

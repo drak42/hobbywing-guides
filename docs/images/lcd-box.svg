@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="350" viewBox="0 0 760 350" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs><rect width="760" height="350" fill="#ffffff"/>
+<text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">LCD Program Box Pro: what it adds</text>
+<rect x="40" y="70" width="200" height="230" rx="12" fill="#2b2b2b"/>
+<rect x="60" y="90" width="160" height="110" rx="4" fill="#9fd3c7"/>
+<text x="140" y="130" text-anchor="middle" font-size="12" fill="#222">Parameter Settings</text>
+<text x="140" y="150" text-anchor="middle" font-size="12" fill="#222">Data Record</text>
+<text x="140" y="170" text-anchor="middle" font-size="12" fill="#222">Mode Setting</text>
+<text x="140" y="190" text-anchor="middle" font-size="12" fill="#222">System Settings</text>
+<circle cx="140" cy="250" r="24" fill="#777"/>
+<text x="140" y="255" text-anchor="middle" font-size="11" fill="#fff">wheel</text>
+<rect x="60" y="280" width="50" height="14" rx="3" fill="#2e8b57"/>
+<rect x="170" y="280" width="50" height="14" rx="3" fill="#888"/>
+<text x="85" y="316" text-anchor="middle" font-size="11" fill="#222">Save</text>
+<text x="195" y="316" text-anchor="middle" font-size="11" fill="#222">Back</text>
+<rect x="290" y="70" width="210" height="62" rx="8" fill="#1a5fb4"/><text x="395" y="98.0" text-anchor="middle" font-size="13" fill="#fff">Settings by name</text><text x="395" y="114.0" text-anchor="middle" font-size="13" fill="#fff">on-screen, no tables</text>
+<rect x="520" y="70" width="210" height="62" rx="8" fill="#1a5fb4"/><text x="625" y="98.0" text-anchor="middle" font-size="13" fill="#fff">Data record</text><text x="625" y="114.0" text-anchor="middle" font-size="13" fill="#fff">max temp, min volts, max RPM*</text>
+<rect x="290" y="150" width="210" height="62" rx="8" fill="#1a5fb4"/><text x="395" y="178.0" text-anchor="middle" font-size="13" fill="#fff">Setup files</text><text x="395" y="194.0" text-anchor="middle" font-size="13" fill="#fff">save, copy to same model</text>
+<rect x="520" y="150" width="210" height="62" rx="8" fill="#1a5fb4"/><text x="625" y="178.0" text-anchor="middle" font-size="13" fill="#fff">Firmware updates</text><text x="625" y="194.0" text-anchor="middle" font-size="13" fill="#fff">USB Link (Windows) or app</text>
+<rect x="290" y="230" width="210" height="62" rx="8" fill="#1a5fb4"/><text x="395" y="258.0" text-anchor="middle" font-size="13" fill="#fff">Bluetooth module</text><text x="395" y="274.0" text-anchor="middle" font-size="13" fill="#fff">lets HW Link V2 connect</text>
+<rect x="520" y="230" width="210" height="62" rx="8" fill="#1a5fb4"/><text x="625" y="258.0" text-anchor="middle" font-size="13" fill="#fff">Battery checker</text><text x="625" y="274.0" text-anchor="middle" font-size="13" fill="#fff">2–8S, per-cell, ±0.1 V</text>
+<text x="500" y="330" text-anchor="middle" font-size="12" fill="#555">* only on ESCs that record data</text>
+</svg>

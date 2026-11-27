@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="315" viewBox="0 0 760 315" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs><rect width="760" height="315" fill="#ffffff"/>
+<text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Drag brake: force vs rate</text>
+<line x1="80" y1="250" x2="700" y2="250" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<line x1="80" y1="250" x2="80" y2="60" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<text x="700" y="272" text-anchor="end" font-size="12" fill="#555">time after releasing the trigger →</text>
+<text x="70" y="55" text-anchor="end" font-size="12" fill="#555">brake</text>
+<line x1="80" y1="95" x2="700" y2="95" stroke="#c0392b" stroke-dasharray="5 4"/>
+<text x="700" y="88" text-anchor="end" font-size="12" fill="#c0392b">drag brake FORCE (crawling: high)</text>
+<line x1="80" y1="185" x2="700" y2="185" stroke="#3a7bd5" stroke-dasharray="5 4"/>
+<text x="700" y="178" text-anchor="end" font-size="12" fill="#3a7bd5">drag brake FORCE (trail: low)</text>
+<path d="M80,250 L130,95 L700,95" stroke="#c0392b" stroke-width="3" fill="none"/>
+<text x="150" y="125" text-anchor="start" font-size="12" fill="#c0392b">high RATE: quick hold</text>
+<path d="M80,250 C240,250 300,100 420,96 L700,95" stroke="#8e44ad" stroke-width="3" fill="none"/>
+<text x="330" y="230" text-anchor="start" font-size="12" fill="#8e44ad">low RATE: gentle build-up</text>
+<text x="380" y="300" text-anchor="middle" font-size="13" fill="#444">Force = how hard it holds. Rate = how quickly it gets there. Auto/Smart rate softens it at speed.</text>
+</svg>
